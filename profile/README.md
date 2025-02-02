@@ -1,12 +1,3 @@
-## Hi there 👋
+## AbzumsAI
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+The Research and Technology Committee of Alborz University of Medical Sciences, in collaboration with Medix Smart Health Media, is launching the first comprehensive introductory AI program for interested students. This long-term program, supported by the university's Research Department, is designed to teach essential skills in mathematics and programming, preparing students for a lifelong learning journey in the intersection of technology and health. If you're passionate about delving deep into AI fundamentals and willing to dedicate 10 to 15 hours per week, this program is for you. Follow our channel for updates: [@AbzumsAI](https://t.me/AbzumsAI). 
