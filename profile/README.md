@@ -1,3 +1,7 @@
 ## AbzumsAI
 
-The Research and Technology Committee of Alborz University of Medical Sciences, in collaboration with Medix Smart Health Media, is launching the first comprehensive introductory AI program for interested students. This long-term program, supported by the university's Research Department, is designed to teach essential skills in mathematics and programming, preparing students for a lifelong learning journey in the intersection of technology and health. If you're passionate about delving deep into AI fundamentals and willing to dedicate 10 to 15 hours per week, this program is for you. Follow our channel for updates: [@AbzumsAI](https://t.me/AbzumsAI). 
+The Research and Technology Department of Alborz University of Medical Sciences, in collaboration with the MedX Community, is launching the first fundamental introductory AI program for interested healthcare students.
+
+This long-term program is designed to teach essential knowledge and skills in mathematics, programming, and basic machine learning concepts to prepare students for a lifelong learning journey at the intersection of technology (especially AI) and health!
+
+If you are passionate about delving deep into AI fundamentals and willing to dedicate 10 to 15 hours per week, this program is for you. Follow our channel for updates: [@AbzumsAI](https://t.me/AbzumsAI).
