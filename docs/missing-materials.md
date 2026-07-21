@@ -1,97 +1,45 @@
-# Missing materials to collect
+# Missing Materials To Collect
 
-I use this list when I need the original class files before making the next round of public updates.
+I use this list to keep the public repos honest about what is present and what still needs an original source file.
 
-## Slides
+## Current State
 
-No public slide decks are in the repo yet.
+All 9 AbzumsAI repositories are cloned locally and synced with `origin/main`.
 
-Please provide, for each session:
+Recovered and pushed:
 
-- Source deck, such as `.pptx`, `.key`, `.tex`, or `.md`.
-- Exported PDF.
-- Session number and title.
-- Public images or media used in the deck.
-- Speaker notes only if they are safe to publish.
+- 59 slide and workshop files with labels and PDF previews.
+- Editable Numpy and Pandas assignment folders with solutions, checks, and notebooks.
+- Assignment 14 and Assignment 15 solution folders with checks and notebooks.
+- Final machine learning homework handout, dataset, data dictionary, editable problem text, and starter analysis.
+- Notebook solutions for assignments 1 to 7.
+- Cleaned session, project, NumPy, and Pandas notebooks from the chat export.
+- Cleaned clinic and openFDA code examples from the chat export.
+- Public site cards and counts for the current repos and materials.
 
-## Assignments
+## Still Needed
 
-The LaTeX assignments now have solution entry files, but the notebook and PDF only assignments still need source material.
+Please provide these if you have them:
 
-Please provide:
+- The two article PDFs mentioned by `Assignments/MachineLearningHomework/Homework.pdf`.
+- Official grading rubrics for Assignment 14, Assignment 15, and the machine learning homework, if they exist.
+- Official rubrics or expected outputs for notebook assignments 1 to 7, if they exist.
+- Editable slide sources, such as `.pptx`, `.key`, `.tex`, or `.md`, if the PDFs are not enough.
+- Source logo file, such as `.svg` or `.ai`, if the site and template should use a vector logo.
+- Final public homepage text in Persian and English, if it should replace the current site copy.
+- Production deployment values for QA-Bot, only through private environment settings.
 
-- Editable source for `Numpy - Problem.pdf`.
-- Solution or answer file for `Numpy - Problem.pdf`.
-- Editable source for `تمرین مربوط به کتابخانه Pandas.pdf`.
-- Solution or answer file for `تمرین مربوط به کتابخانه Pandas.pdf`.
-- Reference solution notebook for `Assignment 14.ipynb`.
-- Reference solution notebook or answer code for `Assignment15.ipynb`.
-- Official rubric for `Assignment 14.ipynb` and `Assignment15.ipynb`, if one exists.
+## Kept Out Of Git
 
-## Notebooks
+These were found but not pushed:
 
-The notebook repo has starter files and checks. It does not have official solution notebooks.
+- Raw chat export HTML, CSS, JavaScript, photos, screenshots, and thumbnails.
+- Full textbook PDFs.
+- `casteller_check_bot.py`, because it contains a Telegram token and an AvalAI key.
+- `Numpy_Masterclass.html`, because the cleaned notebook copy is already in the Notebooks repo.
+- The Persian summit planning PDF, because it is not course assignment or slide material.
+- Duplicate assignment PDFs already present in the Assignments repo.
 
-Please provide:
+## Security Rule
 
-- Reference solutions for `Notebook1.ipynb`.
-- Reference solutions for `HW2.ipynb` to `HW7.ipynb`.
-- Any local data files used by those notebooks, if students are not expected to fetch them online.
-- HW8 proof of completion wording, if the Kaggle certificate rule changed.
-- Rubrics or expected outputs for each notebook.
-
-## Problems
-
-The code examples compile and tests pass, but some source context is not in the repo.
-
-Please provide:
-
-- Original problem sheets for sessions 1 to 4.
-- Scoring rules for `s2p-scoring.py`.
-- Scoring rules for `s3p-scoring.py`.
-- Any plots, diagrams, or worksheet images used in class.
-- Planned problems for sessions after session 4.
-
-## PreTest
-
-The exam and solution sources are present.
-
-Please provide if available:
-
-- Official grading rubric.
-- Any extra answer explanations used in class.
-- Any source file that was used before the LaTeX version.
-
-## Website
-
-The public site files are present and the checks pass.
-
-Please provide if you want them published:
-
-- Final homepage text in Persian.
-- Final homepage text in English.
-- Public contact links.
-- Source logo file, such as `.svg` or `.ai`.
-- Any approved screenshots for the site.
-
-## QA Bot
-
-The bot source, tests, and `.env.example` are present.
-
-Do not put secrets in the repo. Send production values only through the hosting provider or private environment settings.
-
-Needed outside git:
-
-- Telegram bot token.
-- Production webhook URL, if webhook mode is used.
-- Any private deployment setting.
-
-## Latex
-
-The template source is present.
-
-Please provide if available:
-
-- Source logo file, such as `.svg` or `.ai`.
-- Any updated course style rules.
-- Any sample homework that should become the next template example.
+Never put live tokens, API keys, bot tokens, private emails, phone numbers, or production paths in git. Use environment variables and private deployment settings instead.
