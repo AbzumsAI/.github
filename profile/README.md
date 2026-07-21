@@ -1,7 +1,14 @@
 ## AbzumsAI
 
-The Research and Technology Department of Alborz University of Medical Sciences, in collaboration with the MedX Community, is launching the first fundamental introductory AI program for interested healthcare students.
+AbzumsAI is a learning program for healthcare students who want to understand AI from the ground up.
 
-This long-term program is designed to teach essential knowledge and skills in mathematics, programming, and basic machine learning concepts to prepare students for a lifelong learning journey at the intersection of technology (especially AI) and health!
+The Research and Technology Department of Alborz University of Medical Sciences runs the program with MedX Community. The course starts with mathematics and programming, then moves into machine learning basics.
 
-If you are passionate about getting deep into AI fundamentals and willing to dedicate 10 to 15 hours per week, this program is for you. Follow our channel for updates: [@AbzumsAI](https://t.me/AbzumsAI).
+Here on GitHub, we keep the public course material:
+
+- [Notebooks](https://github.com/AbzumsAI/Notebooks) for programming assignments.
+- [Problems](https://github.com/AbzumsAI/Problems) for code examples from class.
+- [Latex](https://github.com/AbzumsAI/Latex) for the homework template.
+- [QA-Bot](https://github.com/AbzumsAI/QA-Bot) for the Telegram question bot.
+
+Follow the Telegram channel for course updates: [@AbzumsAI](https://t.me/AbzumsAI).
