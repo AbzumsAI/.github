@@ -1,6 +1,6 @@
 ﻿# Contributing
 
-I use this organization for AbzumsAI course material, code examples, slides, templates, and helper tools.
+I use this organization for AbzumsAI course material, private slide files, code examples, templates, and helper tools.
 
 Before changing a repo, read its README and run the checks listed there. Keep commits small and make the message describe the real change.
 

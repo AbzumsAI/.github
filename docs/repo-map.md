@@ -7,6 +7,6 @@ I use this note to keep the org profile connected to the public repos.
 - `Problems` holds small code examples.
 - `Latex` holds the homework template.
 - `PreTest` holds exam and solution sources.
-- `Slides` holds public slide files.
 - `QA-Bot` holds the Telegram bot source.
 - `abzumsai.github.io` holds the public site.
+- `Slides` is private and is not linked from public pages.

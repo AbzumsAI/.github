@@ -4,7 +4,7 @@ I use this list to keep the public repos honest about what is present and what s
 
 ## Current State
 
-All 9 AbzumsAI repositories are cloned locally and synced with `origin/main`.
+All 9 AbzumsAI repositories are cloned locally and synced with `origin/main`. Eight are public. The Slides repo is private.
 
 Recovered and pushed:
 
@@ -16,6 +16,7 @@ Recovered and pushed:
 - Cleaned session, project, NumPy, and Pandas notebooks from the chat export.
 - Cleaned clinic and openFDA code examples from the chat export.
 - Public site cards and counts for the current repos and materials.
+- Student project cards, gallery photos, teacher cards, and public video links on the site.
 
 ## Still Needed
 
